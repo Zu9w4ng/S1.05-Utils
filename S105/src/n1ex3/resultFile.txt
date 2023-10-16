@@ -1,0 +1,32 @@
+.classpath type: F last modified: 1697291564065
+.project type: F last modified: 1697291564045
+.settings type: D last modified: 1697291564062
+    org.eclipse.core.resources.prefs type: F last modified: 1697291564030
+    org.eclipse.jdt.core.prefs type: F last modified: 1697291564069
+bin type: D last modified: 1697357210924
+    n1ex1 type: D last modified: 1697293606602
+        App.class type: F last modified: 1697293872452
+        DirectoryList.class type: F last modified: 1697293847653
+    n1ex2 type: D last modified: 1697294011784
+        App.class type: F last modified: 1697354479540
+        DirectoryList.class type: F last modified: 1697353467628
+    n1ex3 type: D last modified: 1697353678216
+        App.class type: F last modified: 1697357074272
+        DirectoryList.class type: F last modified: 1697357138005
+    n1ex4 type: D last modified: 1697357233547
+        App.class type: F last modified: 1697357904844
+        DirectoryList.class type: F last modified: 1697357843736
+src type: D last modified: 1697357210819
+    n1ex1 type: D last modified: 1697293606463
+        App.java type: F last modified: 1697293872345
+        DirectoryList.java type: F last modified: 1697293847541
+    n1ex2 type: D last modified: 1697294011647
+        App.java type: F last modified: 1697354479429
+        DirectoryList.java type: F last modified: 1697353467429
+    n1ex3 type: D last modified: 1697355964653
+        App.java type: F last modified: 1697356177010
+        DirectoryList.java type: F last modified: 1697357137893
+        resultFile.txt type: F last modified: 1697357077279
+    n1ex4 type: D last modified: 1697357233413
+        App.java type: F last modified: 1697357904680
+        DirectoryList.java type: F last modified: 1697357843604

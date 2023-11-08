@@ -90,6 +90,7 @@ public class DirectoryList {
 			writer = new FileWriter(path + "./src/n1ex3/resultFile.txt");
 			writer.write(result);
 			writer.close();
+			System.out.println("S'ha escrit al fitxer resultFile a: " + path + "./src/n1ex3/resultFile.txt");
 		} catch (IOException e) {
 			e.printStackTrace();
 		}

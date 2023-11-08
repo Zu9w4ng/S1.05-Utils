@@ -1,32 +1,55 @@
 .classpath type: F last modified: 1697291564065
+.gitignore type: F last modified: 1697442451524
 .project type: F last modified: 1697291564045
 .settings type: D last modified: 1697291564062
     org.eclipse.core.resources.prefs type: F last modified: 1697291564030
     org.eclipse.jdt.core.prefs type: F last modified: 1697291564069
-bin type: D last modified: 1697357210924
-    n1ex1 type: D last modified: 1697293606602
-        App.class type: F last modified: 1697293872452
-        DirectoryList.class type: F last modified: 1697293847653
-    n1ex2 type: D last modified: 1697294011784
-        App.class type: F last modified: 1697354479540
-        DirectoryList.class type: F last modified: 1697353467628
-    n1ex3 type: D last modified: 1697353678216
-        App.class type: F last modified: 1697357074272
-        DirectoryList.class type: F last modified: 1697357138005
-    n1ex4 type: D last modified: 1697357233547
-        App.class type: F last modified: 1697358055702
-        DirectoryList.class type: F last modified: 1697358030552
-src type: D last modified: 1697357210819
-    n1ex1 type: D last modified: 1697293606463
+bin type: D last modified: 1699464251426
+    n1ex1 type: D last modified: 1699465286320
+        App.class type: F last modified: 1699464251468
+        DirectoryList.class type: F last modified: 1699464251482
+    n1ex2 type: D last modified: 1699464251505
+        App.class type: F last modified: 1699464251485
+        DirectoryList.class type: F last modified: 1699464251505
+    n1ex3 type: D last modified: 1699465247302
+        App.class type: F last modified: 1699464251506
+        DirectoryList.class type: F last modified: 1699465223903
+        resultFile.txt type: F last modified: 1699465241822
+    n1ex4 type: D last modified: 1699464251544
+        App.class type: F last modified: 1699464251526
+        DirectoryList.class type: F last modified: 1699464251544
+        resultFile.txt type: F last modified: 1697358060072
+    n1ex5 type: D last modified: 1699464251575
+        App.class type: F last modified: 1699464251558
+        DirectoryList.class type: F last modified: 1699464251572
+        object.ser type: F last modified: 1697361488025
+        SerializableClass.class type: F last modified: 1699464251575
+readme.txt type: F last modified: 1699465286079
+src type: D last modified: 1697358622059
+    n1ex1 type: D last modified: 1699465286256
+        App.class type: F last modified: 1699464849131
         App.java type: F last modified: 1697293872345
+        DirectoryList.class type: F last modified: 1699464849181
         DirectoryList.java type: F last modified: 1697293847541
-    n1ex2 type: D last modified: 1697294011647
+    n1ex2 type: D last modified: 1699464942970
+        App.class type: F last modified: 1699464942876
         App.java type: F last modified: 1697354479429
+        DirectoryList.class type: F last modified: 1699464942971
         DirectoryList.java type: F last modified: 1697353467429
-    n1ex3 type: D last modified: 1697355964653
+    n1ex3 type: D last modified: 1699464999520
+        App.class type: F last modified: 1699465237192
         App.java type: F last modified: 1697356177010
-        DirectoryList.java type: F last modified: 1697357137893
-        resultFile.txt type: F last modified: 1697357907189
-    n1ex4 type: D last modified: 1697357233413
+        DirectoryList.class type: F last modified: 1699465237289
+        DirectoryList.java type: F last modified: 1699465223735
+        resultFile.txt type: F last modified: 1699465241822
+    n1ex4 type: D last modified: 1699465321418
+        App.class type: F last modified: 1699465321345
         App.java type: F last modified: 1697358055536
+        DirectoryList.class type: F last modified: 1699465321419
         DirectoryList.java type: F last modified: 1697358030427
+        resultFile.txt type: F last modified: 1697358060072
+    n1ex5 type: D last modified: 1697361517453
+        App.java type: F last modified: 1697361485311
+        DirectoryList.java type: F last modified: 1697360298522
+        object.ser type: F last modified: 1697361488025
+        SerializableClass.java type: F last modified: 1697361450134
